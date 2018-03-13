@@ -1,5 +1,3 @@
-package interview.flipkart.machinecoding.tictactoe;
-
 import java.util.Arrays;
 
 public class GameBoard {
