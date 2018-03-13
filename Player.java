@@ -1,5 +1,3 @@
-package interview.flipkart.machinecoding.tictactoe;
-
 public class Player {
 
   private final char symbol;
